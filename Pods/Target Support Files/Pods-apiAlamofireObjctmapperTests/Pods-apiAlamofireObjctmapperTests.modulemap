@@ -1,0 +1,6 @@
+framework module Pods_apiAlamofireObjctmapperTests {
+  umbrella header "Pods-apiAlamofireObjctmapperTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

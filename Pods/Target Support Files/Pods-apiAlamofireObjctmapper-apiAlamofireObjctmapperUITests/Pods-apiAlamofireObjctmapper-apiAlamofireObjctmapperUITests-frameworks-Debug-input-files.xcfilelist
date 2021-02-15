@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-apiAlamofireObjctmapper-apiAlamofireObjctmapperUITests/Pods-apiAlamofireObjctmapper-apiAlamofireObjctmapperUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/ObjectMapper/ObjectMapper.framework
